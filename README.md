@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/ThiagoAugusto2017)
+[![card](https://github-readme-stats.vercel.app/api?username=ThiagoAugusto2017&theme=Dark)](https://github.com/ThiagoAugusto2017) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAugusto2017&hide=html&layout=compact&theme=Dark)](https://github.com/ThiagoAugusto2017/)
 
-<!--
 **ThiagoAugusto2017/ThiagoAugusto2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
